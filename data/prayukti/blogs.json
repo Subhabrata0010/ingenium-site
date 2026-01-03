@@ -1,0 +1,62 @@
+[
+  {
+  "id": "tech-fest-2025",
+  "title": "The Future of AI on Campus",
+  "excerpt": "A deep dive into how machine learning is optimizing our library systems.",
+  "department": "Prayukti",
+  "date": "October 12, 2025",
+  "readTime": "4 min read",
+  "author": {
+    "name": "Rohan Das",
+    "role": "3rd Year, CSE"
+  },
+  "paragraphs": [
+    "Artificial Intelligence is often seen as a distant future technology, but on our campus, it is already happening. The new library system implemented last month uses basic ML algorithms to sort books.",
+    "I spoke with the Dean regarding this shift. He mentioned that efficiency has increased by 40% since the deployment. Students can now find research papers in seconds rather than minutes.",
+    "However, there were challenges. The initial dataset was messy, leading to some hilarious misclassifications. For example, 'The C++ Programming Language' was briefly categorized under 'Foreign Languages'.",
+    "The team is now working on phase two: facial recognition for entry. This has raised some privacy concerns among the student body, which the administration promises to address in the next town hall."
+  ],
+  "images": [
+    {
+      "id": "d/1A-2B-3C-GOOGLE-ID",
+      "caption": "The new automated kiosk at the Central Library.",
+      "position": 1
+    },
+    {
+      "id": "d/9Z-8Y-7X-GOOGLE-ID",
+      "caption": "Graph showing the efficiency increase over 3 months.",
+      "position": 3
+    }
+  ]
+},
+{
+  "id": "tech-fest-2024",
+  "title": "The Future of AI on Campus",
+  "excerpt": "A deep dive into how machine learning is optimizing our library systems.",
+  "department": "Prayukti",
+  "date": "October 12, 2024",
+  "readTime": "4 min read",
+  "author": {
+    "name": "Rohan Das",
+    "role": "3rd Year, CSE"
+  },
+  "paragraphs": [
+    "Artificial Intelligence is often seen as a distant future technology, but on our campus, it is already happening. The new library system implemented last month uses basic ML algorithms to sort books.",
+    "I spoke with the Dean regarding this shift. He mentioned that efficiency has increased by 40% since the deployment. Students can now find research papers in seconds rather than minutes.",
+    "However, there were challenges. The initial dataset was messy, leading to some hilarious misclassifications. For example, 'The C++ Programming Language' was briefly categorized under 'Foreign Languages'.",
+    "The team is now working on phase two: facial recognition for entry. This has raised some privacy concerns among the student body, which the administration promises to address in the next town hall."
+  ],
+  "images": [
+    {
+      "id": "d/1A-2B-3C-GOOGLE-ID",
+      "caption": "The new automated kiosk at the Central Library.",
+      "position": 1
+    },
+    {
+      "id": "d/9Z-8Y-7X-GOOGLE-ID",
+      "caption": "Graph showing the efficiency increase over 3 months.",
+      "position": 3
+    }
+  ]
+}
+]
