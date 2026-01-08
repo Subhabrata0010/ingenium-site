@@ -18,8 +18,9 @@ export async function generateStaticParams() {
 }
 
 // Generate Metadata
-export async function generateMetadata({ params }: { params: { id: string } }) {
-  const post = blogData.find((p) => p.id === params.id);
+export async function generateMetadata({ params }: { params: Promise<{ id: string }> }) {
+  const { id } = await params;
+  const post = blogData.find((p) => p.id === id);
   
   if (!post) {
     return {
@@ -34,8 +35,9 @@ export async function generateMetadata({ params }: { params: { id: string } }) {
 }
 
 // The Page Component
-export default function Page({ params }: { params: { id: string } }) {
-  const rawPost = blogData.find((p) => p.id === params.id);
+export default async function Page({ params }: { params: Promise<{ id: string }> }) {
+  const { id } = await params;
+  const rawPost = blogData.find((p) => p.id === id);
 
   if (!rawPost) {
     return notFound();

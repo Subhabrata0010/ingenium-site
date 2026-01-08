@@ -2,10 +2,10 @@
 import React from "react";
 import { notFound } from "next/navigation";
 import ArticlePage from "@/components/articles/ArticlePage";
-import archiveData from "@/data/archive/blogs.json";
+import abhayamanData from "@/data/abhayaman/blogs.json";
 import type { ArticleData } from "@/types/types";
 
-const blogData: ArticleData[] = archiveData.map((post: any) => ({
+const blogData: ArticleData[] = abhayamanData.map((post: any) => ({
   ...post,
   tags: post.department,
 }));
@@ -18,8 +18,9 @@ export async function generateStaticParams() {
 }
 
 // Generate Metadata
-export async function generateMetadata({ params }: { params: { id: string } }) {
-  const post = blogData.find((p) => p.id === params.id);
+export async function generateMetadata({ params }: { params: Promise<{ id: string }> }) {
+  const { id } = await params;
+  const post = blogData.find((p) => p.id === id);
   
   if (!post) {
     return {
@@ -28,14 +29,15 @@ export async function generateMetadata({ params }: { params: { id: string } }) {
   }
 
   return {
-    title: `${post.title} - Archive | Ingenium 4.0`,
+    title: `${post.title} - Abhayaman | Ingenium 4.0`,
     description: post.excerpt,
   };
 }
 
 // The Page Component
-export default function Page({ params }: { params: { id: string } }) {
-  const rawPost = blogData.find((p) => p.id === params.id);
+export default async function Page({ params }: { params: Promise<{ id: string }> }) {
+  const { id } = await params;
+  const rawPost = blogData.find((p) => p.id === id);
 
   if (!rawPost) {
     return notFound();
@@ -43,5 +45,5 @@ export default function Page({ params }: { params: { id: string } }) {
 
   const articleProps: ArticleData = rawPost;
 
-  return <ArticlePage article={articleProps} section="archive" />;
+  return <ArticlePage article={articleProps} section="abhayaman" />;
 }

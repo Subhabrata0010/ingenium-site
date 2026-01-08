@@ -149,14 +149,14 @@ const LinksSection = () => {
         News & Activities
       </Link>
       <Link
-        href="/abohoman"
+        href="/abhayaman"
         className={`relative text-black text-base font-medium transition-all duration-300 hover:text-ingeniumbrand ${
-          currentRoute == "/abohoman" 
+          currentRoute == "/abhayaman" 
             ? "text-ingeniumbrand after:absolute after:bottom-0 after:left-0 after:w-full after:h-0.5 after:bg-ingeniumbrand" 
             : "hover:after:absolute hover:after:bottom-0 hover:after:left-0 hover:after:w-full hover:after:h-0.5 hover:after:bg-ingeniumbrand hover:after:scale-x-100 hover:after:origin-left hover:after:transition-transform hover:after:duration-300 after:scale-x-0"
         }`}
       >
-        Abohoman
+        Abhayaman
       </Link>
       <Link
         href="/prayukti"
