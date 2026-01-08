@@ -1,23 +1,28 @@
-export type BlogImage = {
-  id: string; 
+// types/types.ts
+export interface BlogImage {
+  id: string;
   caption?: string;
-  position: number;
-};
+  position: number; // After which paragraph this image should appear
+}
 
-export type Author = {
+export interface Author {
   name: string;
   role: string;
-  avatar?: string;
-};
+}
 
-export type ArticleData = {
+export interface ArticleData {
   id: string;
   title: string;
   excerpt: string;
-  paragraphs: string[];
-  images: BlogImage[];
-  author: Author;
+  department: string; // "Prayukti" | "Abhayaman" | "Archive"
   date: string;
   readTime: string;
-  tags: 'Prayukti' | 'Abhayaman' | 'Article' | 'Editorial' | 'Alumni';
-};
+  author: Author;
+  paragraphs: string[];
+  images: BlogImage[];
+  tags?: string; // Mapped from department
+}
+
+export interface BlogPost extends ArticleData {
+  category?: string;
+}
