@@ -31,6 +31,68 @@
     ]
   },
   {
+    "id": "tech-fest-2023",
+    "title": "Looking Back: Tech Fest 2023 Highlights",
+    "excerpt": "A retrospective look at our most successful technical festival and its lasting impact.",
+    "department": "Archive",
+    "date": "March 15, 2023",
+    "readTime": "6 min read",
+    "author": {
+      "name": "Priya Sharma",
+      "role": "Alumni, CSE 2023"
+    },
+    "paragraphs": [
+      "Tech Fest 2023 was a landmark event that brought together students, faculty, and industry experts for three days of innovation and learning.",
+      "The festival featured over 50 events ranging from coding competitions to robotics challenges, attracting participants from colleges across the state.",
+      "One of the highlights was the keynote speech by a renowned AI researcher who shared insights about the future of machine learning in India.",
+      "The event also featured a startup pitch competition where student teams presented their innovative ideas to venture capitalists. Several projects received seed funding.",
+      "Looking back, Tech Fest 2023 set new standards for student engagement and continues to inspire current students to pursue excellence in technology."
+    ],
+    "images": [
+      {
+        "id": "d/1A-2B-3C-GOOGLE-ID",
+        "caption": "Students participating in the 24-hour hackathon.",
+        "position": 2
+      },
+      {
+        "id": "d/9Z-8Y-7X-GOOGLE-ID",
+        "caption": "Winner team receiving their trophy from the chief guest.",
+        "position": 4
+      }
+    ]
+  },
+  {
+    "id": "historical-fest-2023",
+    "title": "Looking Back: Tech Fest 2023 Highlights",
+    "excerpt": "A retrospective look at our most successful technical festival and its lasting impact.",
+    "department": "Archive",
+    "date": "March 15, 2023",
+    "readTime": "6 min read",
+    "author": {
+      "name": "Priya Sharma",
+      "role": "Alumni, CSE 2023"
+    },
+    "paragraphs": [
+      "Tech Fest 2023 was a landmark event that brought together students, faculty, and industry experts for three days of innovation and learning.",
+      "The festival featured over 50 events ranging from coding competitions to robotics challenges, attracting participants from colleges across the state.",
+      "One of the highlights was the keynote speech by a renowned AI researcher who shared insights about the future of machine learning in India.",
+      "The event also featured a startup pitch competition where student teams presented their innovative ideas to venture capitalists. Several projects received seed funding.",
+      "Looking back, Tech Fest 2023 set new standards for student engagement and continues to inspire current students to pursue excellence in technology."
+    ],
+    "images": [
+      {
+        "id": "d/1A-2B-3C-GOOGLE-ID",
+        "caption": "Students participating in the 24-hour hackathon.",
+        "position": 2
+      },
+      {
+        "id": "d/9Z-8Y-7X-GOOGLE-ID",
+        "caption": "Winner team receiving their trophy from the chief guest.",
+        "position": 4
+      }
+    ]
+  },
+  {
     "id": "campus-transformation-2022",
     "title": "Campus Transformation: A Journey Through 2022",
     "excerpt": "How our campus evolved through infrastructure improvements and community initiatives.",

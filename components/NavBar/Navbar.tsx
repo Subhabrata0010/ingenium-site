@@ -139,24 +139,24 @@ const LinksSection = () => {
         Home
       </Link>
       <Link
-        href="/news-activities"
+        href="/utkarshi"
         className={`relative text-black text-base font-medium transition-all duration-300 hover:text-ingeniumbrand ${
-          currentRoute == "/news-activities" 
+          currentRoute == "/utkarshi" 
             ? "text-ingeniumbrand after:absolute after:bottom-0 after:left-0 after:w-full after:h-0.5 after:bg-ingeniumbrand" 
             : "hover:after:absolute hover:after:bottom-0 hover:after:left-0 hover:after:w-full hover:after:h-0.5 hover:after:bg-ingeniumbrand hover:after:scale-x-100 hover:after:origin-left hover:after:transition-transform hover:after:duration-300 after:scale-x-0"
         }`}
       >
-        News & Activities
+        Utkarshi
       </Link>
       <Link
-        href="/abhayaman"
+        href="/abohoman"
         className={`relative text-black text-base font-medium transition-all duration-300 hover:text-ingeniumbrand ${
-          currentRoute == "/abhayaman" 
+          currentRoute == "/abohoman" 
             ? "text-ingeniumbrand after:absolute after:bottom-0 after:left-0 after:w-full after:h-0.5 after:bg-ingeniumbrand" 
             : "hover:after:absolute hover:after:bottom-0 hover:after:left-0 hover:after:w-full hover:after:h-0.5 hover:after:bg-ingeniumbrand hover:after:scale-x-100 hover:after:origin-left hover:after:transition-transform hover:after:duration-300 after:scale-x-0"
         }`}
       >
-        Abhayaman
+        Abohoman
       </Link>
       <Link
         href="/prayukti"
@@ -169,34 +169,14 @@ const LinksSection = () => {
         Prayukti
       </Link>
       <Link
-        href="/gallery"
+        href="/sarvagya"
         className={`relative text-black text-base font-medium transition-all duration-300 hover:text-ingeniumbrand ${
-          currentRoute == "/gallery" 
+          currentRoute == "/sarvagya" 
             ? "text-ingeniumbrand after:absolute after:bottom-0 after:left-0 after:w-full after:h-0.5 after:bg-ingeniumbrand" 
             : "hover:after:absolute hover:after:bottom-0 hover:after:left-0 hover:after:w-full hover:after:h-0.5 hover:after:bg-ingeniumbrand hover:after:scale-x-100 hover:after:origin-left hover:after:transition-transform hover:after:duration-300 after:scale-x-0"
         }`}
       >
-        Gallery
-      </Link>
-      <Link
-        href="/events"
-        className={`relative text-black text-base font-medium transition-all duration-300 hover:text-ingeniumbrand ${
-          currentRoute == "/events" 
-            ? "text-ingeniumbrand after:absolute after:bottom-0 after:left-0 after:w-full after:h-0.5 after:bg-ingeniumbrand" 
-            : "hover:after:absolute hover:after:bottom-0 hover:after:left-0 hover:after:w-full hover:after:h-0.5 hover:after:bg-ingeniumbrand hover:after:scale-x-100 hover:after:origin-left hover:after:transition-transform hover:after:duration-300 after:scale-x-0"
-        }`}
-      >
-        Events
-      </Link>
-      <Link
-        href="/editorial"
-        className={`relative text-black text-base font-medium transition-all duration-300 hover:text-ingeniumbrand ${
-          currentRoute == "/editorial" 
-            ? "text-ingeniumbrand after:absolute after:bottom-0 after:left-0 after:w-full after:h-0.5 after:bg-ingeniumbrand" 
-            : "hover:after:absolute hover:after:bottom-0 hover:after:left-0 hover:after:w-full hover:after:h-0.5 hover:after:bg-ingeniumbrand hover:after:scale-x-100 hover:after:origin-left hover:after:transition-transform hover:after:duration-300 after:scale-x-0"
-        }`}
-      >
-        Editorial
+        Sarvagya
       </Link>
       <Link
         href="/archive"
@@ -207,6 +187,16 @@ const LinksSection = () => {
         }`}
       >
         Archive
+      </Link>
+      <Link
+        href="/editorial"
+        className={`relative text-black text-base font-medium transition-all duration-300 hover:text-ingeniumbrand ${
+          currentRoute == "/editorial" 
+            ? "text-ingeniumbrand after:absolute after:bottom-0 after:left-0 after:w-full after:h-0.5 after:bg-ingeniumbrand" 
+            : "hover:after:absolute hover:after:bottom-0 hover:after:left-0 hover:after:w-full hover:after:h-0.5 hover:after:bg-ingeniumbrand hover:after:scale-x-100 hover:after:origin-left hover:after:transition-transform hover:after:duration-300 after:scale-x-0"
+        }`}
+      >
+        Editorial
       </Link>
     </>
   )

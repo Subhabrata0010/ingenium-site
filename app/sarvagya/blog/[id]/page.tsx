@@ -2,10 +2,10 @@
 import React from "react";
 import { notFound } from "next/navigation";
 import ArticlePage from "@/components/articles/ArticlePage";
-import abhayamanData from "@/data/abhayaman/blogs.json";
+import sarvagyaData from "@/data/sarvagya/blogs.json";
 import type { ArticleData } from "@/types/types";
 
-const blogData: ArticleData[] = abhayamanData.map((post: any) => ({
+const blogData: ArticleData[] = sarvagyaData.map((post: any) => ({
   ...post,
   tags: post.department,
 }));
@@ -29,7 +29,7 @@ export async function generateMetadata({ params }: { params: Promise<{ id: strin
   }
 
   return {
-    title: `${post.title} - Abhayaman | Ingenium 4.0`,
+    title: `${post.title} - Sarvagya | Ingenium 4.0`,
     description: post.excerpt,
   };
 }
@@ -45,5 +45,5 @@ export default async function Page({ params }: { params: Promise<{ id: string }>
 
   const articleProps: ArticleData = rawPost;
 
-  return <ArticlePage article={articleProps} section="abhayaman" />;
+  return <ArticlePage article={articleProps} section="sarvagya" />;
 }
