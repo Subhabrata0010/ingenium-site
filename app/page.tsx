@@ -9,8 +9,6 @@ import { ChevronLeft, ChevronRight, Calendar, User, ArrowRight } from 'lucide-re
 // --- DATA IMPORT ---
 import prayuktiData from '../data/prayukti/blogs.json';
 import archiveData from '../data/archive/blogs.json';
-
-// You can add these later when you create the data files
 import utkarshiData from '../data/utkarshi/blogs.json';
 import abohomanData from '../data/abohoman/blogs.json';
 import sarvagyaData from '../data/sarvagya/blogs.json';
@@ -38,7 +36,7 @@ const HeroCarousel = ({ articles }: { articles: any[] }) => {
   if (!articles.length) return null;
 
   return (
-    <div className="relative w-full h-100 md:h-125 overflow-hidden bg-gray-900 group">
+    <div className="relative w-full h-[400px] md:h-[500px] overflow-hidden bg-gray-900 group">
       <div 
         className="flex transition-transform duration-700 ease-out h-full" 
         style={{ transform: `translateX(-${current * 100}%)` }}
@@ -48,7 +46,7 @@ const HeroCarousel = ({ articles }: { articles: any[] }) => {
            
            return (
             <div key={idx} className="w-full shrink-0 relative h-full">
-              <div className="absolute inset-0 bg-linear-to-t from-black/80 via-black/40 to-transparent z-10" />
+              <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-black/40 to-transparent z-10" />
               {coverId ? (
                 <Image 
                   src={getGoogleUrl(coverId)} 
@@ -152,7 +150,7 @@ const SectionTiles = () => {
             href={section.link}
             className="group relative h-72 rounded-2xl overflow-hidden shadow-lg hover:shadow-2xl transition-all duration-300 transform hover:-translate-y-2"
           >
-            <div className={`absolute inset-0 bg-linear-to-br ${section.color}`} />
+            <div className={`absolute inset-0 bg-gradient-to-br ${section.color}`} />
             
             <div className="absolute inset-0 flex flex-col items-center justify-center text-white p-6 text-center">
               <h3 className="text-2xl font-bold mb-2 transform group-hover:scale-110 transition-transform duration-300">
@@ -164,7 +162,6 @@ const SectionTiles = () => {
               <div className="w-12 h-1 bg-white/50 group-hover:w-20 transition-all duration-300"></div>
             </div>
 
-            {/* Decorative corner */}
             <div className="absolute top-3 right-3 w-8 h-8 border-t-2 border-r-2 border-white/30 opacity-0 group-hover:opacity-100 transition-opacity"></div>
             <div className="absolute bottom-3 left-3 w-8 h-8 border-b-2 border-l-2 border-white/30 opacity-0 group-hover:opacity-100 transition-opacity"></div>
           </Link>
@@ -177,7 +174,14 @@ const SectionTiles = () => {
 // --- MAIN PAGE COMPONENT ---
 export default function Home() {
   const allArticles = [...utkarshiData, ...prayuktiData, ...abohomanData, ...sarvagyaData, ...archiveData];
+  
+  // Sort by date (most recent first)
+  allArticles.sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
+  
+  // Featured carousel articles (first 5)
   const featuredArticles = allArticles.slice(0, 5);
+  
+  // Recent feed articles (max 6 on home page)
   const feedArticles = allArticles.slice(0, 6);
 
   return (
@@ -189,7 +193,7 @@ export default function Home() {
       {/* 2. SECTION TILES */}
       <SectionTiles />
 
-      {/* 3. RECENT ARTICLES FEED */}
+      {/* 3. RECENT ARTICLES FEED (MAX 6) */}
       <section className="max-w-6xl mx-auto px-6 pb-24">
         <div className="text-center mb-16">
           <span className="text-blue-600 font-bold tracking-widest text-xs uppercase mb-2 block">Latest Updates</span>
@@ -197,7 +201,7 @@ export default function Home() {
           <div className="w-16 h-1 bg-blue-600 mx-auto mt-4 rounded-full"></div>
         </div>
 
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 mb-12">
           {feedArticles.map((article) => {
              const coverId = article.images?.[0]?.id;
 
@@ -246,6 +250,17 @@ export default function Home() {
               </article>
             );
           })}
+        </div>
+
+        {/* View All Articles Button */}
+        <div className="text-center">
+          <Link 
+            href="/blog"
+            className="inline-flex items-center gap-2 bg-black text-white px-8 py-3 text-sm font-bold uppercase tracking-widest hover:bg-blue-600 transition-colors rounded-sm"
+          >
+            View All Articles
+            <ArrowRight className="w-4 h-4" />
+          </Link>
         </div>
       </section>
     </main>
