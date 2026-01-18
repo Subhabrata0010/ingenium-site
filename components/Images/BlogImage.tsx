@@ -1,5 +1,5 @@
-import Image from 'next/image';
-import type { BlogImage as BlogImageType } from '../../types/types';
+import Image from "next/image";
+import type { BlogImage as BlogImageType } from "../../types/types";
 
 const getGoogleUrl = (id: string) => `https://lh3.googleusercontent.com/${id}`;
 
@@ -17,7 +17,6 @@ export default function BlogImage({ image }: { image: BlogImageType }) {
           sizes="(max-width: 768px) 100vw, (max-width: 1200px) 85vw, 1200px"
         />
       </div>
-      
       {image.caption && (
         <figcaption className="text-center text-sm text-gray-500 mt-3 font-medium italic">
           {image.caption}

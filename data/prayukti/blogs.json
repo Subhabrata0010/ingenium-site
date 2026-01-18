@@ -1,62 +1,701 @@
 [
   {
-  "id": "tech-fest-2025",
-  "title": "The Future of AI on Campus",
-  "excerpt": "A deep dive into how machine learning is optimizing our library systems.",
-  "department": "Prayukti",
-  "date": "October 12, 2025",
-  "readTime": "4 min read",
-  "author": {
-    "name": "Rohan Das",
-    "role": "3rd Year, CSE"
-  },
-  "paragraphs": [
-    "Artificial Intelligence is often seen as a distant future technology, but on our campus, it is already happening. The new library system implemented last month uses basic ML algorithms to sort books.",
-    "I spoke with the Dean regarding this shift. He mentioned that efficiency has increased by 40% since the deployment. Students can now find research papers in seconds rather than minutes.",
-    "However, there were challenges. The initial dataset was messy, leading to some hilarious misclassifications. For example, 'The C++ Programming Language' was briefly categorized under 'Foreign Languages'.",
-    "The team is now working on phase two: facial recognition for entry. This has raised some privacy concerns among the student body, which the administration promises to address in the next town hall."
-  ],
-  "images": [
-    {
-      "id": "d/1A-2B-3C-GOOGLE-ID",
-      "caption": "The new automated kiosk at the Central Library.",
-      "position": 1
+    "id": "innovative-ideas-2026",
+    "title": "INNOVATIVE IDEAS SHAPING THE FUTURE",
+    "excerpt": "Exploring groundbreaking innovations in AI, renewable energy, smart cities, and more that are redefining our world.",
+    "department": "prayukti",
+    "date": "January 18, 2026",
+    "readTime": "4 min read",
+    "author": {
+      "name": "Debangshu Mondal",
+      "role": "1st Year, Department of CSE (AI-ML), Academy of Technology"
     },
-    {
-      "id": "d/9Z-8Y-7X-GOOGLE-ID",
-      "caption": "Graph showing the efficiency increase over 3 months.",
-      "position": 3
-    }
-  ]
-},
-{
-  "id": "tech-fest-2024",
-  "title": "The Future of AI on Campus",
-  "excerpt": "A deep dive into how machine learning is optimizing our library systems.",
-  "department": "Prayukti",
-  "date": "October 12, 2024",
-  "readTime": "4 min read",
-  "author": {
-    "name": "Rohan Das",
-    "role": "3rd Year, CSE"
+    "paragraphs": [
+      "As we progress into the 21st century, innovation in technology, sustainability, and society continues to redefine how we live and work. Several groundbreaking ideas are emerging to tackle today’s challenges while shaping the future. Here, we explore key innovations that promise to create a transformative impact.",
+      "<b>I. Artificial Intelligence and Machine Learning</b>",
+      "AI and machine learning are revolutionizing many sectors, particularly healthcare and transportation.",
+      "<b>Smart Healthcare:</b> AI algorithms analyze medical data to provide personalized treatment plans and predict disease outbreaks. They can also improve diagnostic accuracy for conditions like cancer, enhancing patient care and reducing costs.",
+      "<b>Autonomous Vehicles:</b> Companies like Tesla and Waymo are developing self-driving cars that use AI to navigate roadways safely, potentially reducing traffic accidents and improving urban mobility.",
+      "<b>II. Renewable Energy Innovations</b>",
+      "With climate change concerns, renewable energy technologies are advancing rapidly.",
+      "<b>Solar Power:</b> Innovations like solar cells offer higher efficiency at lower costs. Transparent solar windows and solar skins help integrate solar technology into buildings seamlessly.",
+      "<b>Energy Storage:</b> Advances in battery technology, such as solid-state batteries, are improving energy storage solutions, making renewable energy sources more reliable and efficient.",
+      "<b>III. Smart Cities</b>",
+      "Smart cities utilize IOT technology to improve urban living through better infrastructure.",
+      "<b>Traffic Management:</b> Smart traffic systems optimize flow and reduce congestion using real-time data, while smart bins enhance waste management by monitoring waste levels.",
+      "<b>IV. Sustainable Agriculture</b>",
+      "Innovative Agricultural Technologies focus on producing more food with less environmental impact. Technologies like drones and soil sensors help farmers maximize crop yields and minimize resource use through data analytics.",
+      "<b>V. Health and Wellness Technologies</b>",
+      "Innovations are emerging to prioritize preventive care and mental well-being.",
+      "<b>Telehealth:</b> The rise of telehealth allows patients to consult healthcare providers remotely, improving access to care.",
+      "<b>Mental Health Apps:</b> Mobile applications offer guided meditation and community support, making mental health resources more accessible.",
+      "<b>VI. Education Innovations</b>",
+      "The education sector is transforming with technology, promoting engaging learning experiences.",
+      "<b>EduTech Platforms:</b> Online learning platforms like Coursera and Khan Academy democratize education by providing courses for anyone, anywhere.",
+      "<b>VR and AR:</b> Virtual and augmented reality in the classroom enhances learning through immersive experiences that make subjects engaging.",
+      "<b>VII. Blockchain and Cryptocurrencies</b>",
+      "Blockchain technology has applications beyond cryptocurrencies, impacting finance and supply chains.",
+      "<b>Decentralized Finance (DeFi):</b> DeFi creates permissionless financial systems, allowing users to lend and trade without intermediaries.",
+      "<b>Supply Chain Transparency:</b> Blockchain improves traceability in supply chains, ensuring ethical practices and reducing fraud.",
+      "<b>VIII. Space Exploration</b>",
+      "Innovative ideas are pushing humanity closer to interplanetary living.",
+      "<b>Commercial Space Travel:</b> Companies like SpaceX and Blue Origin are making space tourism a reality, spurring public interest in space exploration.",
+      "<b>Mars Colonization:</b> Plans for establishing a human presence on Mars are in motion, with goals of creating sustainable habitats for future generations.",
+      "<b>IX. Personalized Consumer Experiences</b>",
+      "Companies are leveraging technology to create tailored experiences for consumers.",
+      "<b>E-commerce:</b> AI-driven recommendations enhance shopping experiences, making it easier for consumers to find products suited to their preferences.",
+      "<b>Fashion Tech:</b> Brands are personalizing styling services to offer curated selections, aligning with consumer desires for uniqueness.",
+      "<b>X. The Future of Work</b>",
+      "The workplace is changing, influenced by technology and evolving attitudes toward employment.",
+      "<b>Remote Work:</b> Tools like Zoom and Slack facilitate remote work, enhancing flexibility and work-life balance.",
+      "<b>Gig Economy:</b> The gig economy is expanding opportunities for freelancers, providing alternative income sources and diverse work arrangements."
+    ],
+    "images": [
+      {
+        "id": "d/1g6-GlgUjEF6Pqp302Ua6bG1I9KMiTR8q",
+        "caption": "Visualizing the future: AI, renewables, and smart tech shaping tomorrow.",
+        "position": 1
+      }
+    ]
   },
-  "paragraphs": [
-    "Artificial Intelligence is often seen as a distant future technology, but on our campus, it is already happening. The new library system implemented last month uses basic ML algorithms to sort books.",
-    "I spoke with the Dean regarding this shift. He mentioned that efficiency has increased by 40% since the deployment. Students can now find research papers in seconds rather than minutes.",
-    "However, there were challenges. The initial dataset was messy, leading to some hilarious misclassifications. For example, 'The C++ Programming Language' was briefly categorized under 'Foreign Languages'.",
-    "The team is now working on phase two: facial recognition for entry. This has raised some privacy concerns among the student body, which the administration promises to address in the next town hall."
-  ],
-  "images": [
-    {
-      "id": "d/1A-2B-3C-GOOGLE-ID",
-      "caption": "The new automated kiosk at the Central Library.",
-      "position": 1
+  {
+    "id": "3d-bioprinting-2026",
+    "title": "3D-BIOPRINTING (A MARVEL UNDER MODERN SCIENCE)",
+    "excerpt": "Discover how 3D bioprinting is revolutionizing organ transplants by creating lab-grown organs from a patient's own cells.",
+    "department": "prayukti",
+    "date": "January 18, 2026",
+    "readTime": "4 min read",
+    "author": {
+      "name": "Adrish Chakraborty",
+      "role": "1st Year, CSBS"
     },
-    {
-      "id": "d/9Z-8Y-7X-GOOGLE-ID",
-      "caption": "Graph showing the efficiency increase over 3 months.",
-      "position": 3
-    }
-  ]
-}
+    "paragraphs": [
+      "<b>3D- BIOPRINTING</b><br>(A MARVEL UNDER MODERN SCIENCE)",
+      "Every 10 minutes, someone is added to the global organ transplant waiting list. For many patients, the difference between life and death depends on the unpredictable arrival of a compatible donor. Yet even when a match is found, organ rejection and long recovery times remain major hurdles. Now, a remarkable fusion of biology and engineering is offering a bold alternative: lab-grown organs created from a patient’s own cells.",
+      "According to global health statistics, thousands die each year before a suitable organ becomes available, due to the smaller number of donors available. But what’s the problem with traditional transplants? Traditional transplants carry the risk of immune rejection, requiring lifelong medication to prevent the body from attacking the new organ. These challenges have driven scientists to search for a more sustainable, yet challenging solution named as 3D or Three Dimensional Bioprinting.",
+      "We’ve heard about 3D printing, where 3D models are being designed using any 3D software and then are printed by depositing material such as plastic, metal or resin layer by layer and fusing them together to create the final physical object.",
+      "3D bioprinting is a technology that combines the precision of 3D printing with living biological materials. Guided by a digital blueprint, the printer lays down these cells layer by layer to create tissues that mimic the structure of real human organs.",
+      "<b>Let’s understand the process more easily:-</b>",
+      "The process starts with special cells called stem cells, which can turn into any kind of cell in the body. Doctors first collect these cells, usually from the patient, so the body is less likely to reject the new organ.",
+      "Next, using computer scans, scientists make a digital 3D plan of the organ that needs to be created.",
+      "A special 3D printer, instead of using plastic, uses a “bio-ink” made of living cells. This printer carefully lays down the cells layer by layer, just like icing a cake, to build the organ’s shape along with tiny blood vessels.",
+      "After printing, the organ is kept in a bioreactor—a kind of warm, controlled box—where it grows and starts working like a real organ.",
+      "But it doesn’t sound so easy as it seems. Scientists must carefully turn stem cells into the right tissue, place millions of living cells with microscopic accuracy (the most challenging part), create tiny blood vessels, and grow the organ in a controlled environment.",
+      "Each step takes advanced equipment, precise conditions, and years of research, so making a full, working organ is still extremely challenging.",
+      "The positives? They could eliminate long transplant waiting lists by allowing doctors to create organs on demand, and using a patient’s own cells greatly reduces the risk of rejection.",
+      "Each organ can be customized to perfectly match the patient’s size and needs, making treatment more precise.",
+      "Beyond transplantation, lab-grown tissues are already being used to test new drugs, reducing the need for animal experimentation and speeding up medical research.",
+      "This technique is not just a made-up theory but a reality. Doctors at Wake Forest University in the U.S. implanted lab-grown bladders in a small group of patients more than a decade ago, and they functioned well.",
+      "Hospitals in Europe and the U.S. have used lab-grown skin for burn victims and cartilage for reconstructive surgeries.",
+      "However, creating large fully functional organs like kidneys or lungs requires printing intricate networks of blood vessels to keep tissues alive.",
+      "So, developing large organs such as liver, kidney or any other such complex tissues will require more technical advancements for successful implementation in the human body.",
+      "Despite these hurdles, the trajectory is clear. As bioprinting techniques improve, the vision of a hospital where doctors can “print” a custom kidney or heart on demand is moving closer to reality.",
+      "Some experts predict that within the next decade, we may see the first lab-grown organs approved for limited human use.",
+      "Lab-grown organs represent more than just a medical advancement—they are a testament to human ingenuity and the power of interdisciplinary science.",
+      "By merging biology, engineering, and computer technology, researchers are rewriting the rules of medicine.",
+      "The day may soon come when a patient in desperate need of a transplant will no longer wait for a donor. Instead, they will receive something extraordinary: a brand-new organ, grown just for them.",
+      "<b>REAL LIFE MODEL:-</b>",
+      "Adam Feinberg and his team have created the first full-size 3D bioprinted human heart model using their Freeform Reversible Embedding of Suspended Hydrogels (FRESH) technique.",
+      "The model, created from MRI data using a specially built 3D printer, realistically mimics the elasticity of cardiac tissue and sutures.",
+      "This milestone represents the culmination of two years of research, holding both immediate promise for surgeons and clinicians, as well as long term implications for the future of bioengineered organ research."
+    ],
+    "images": [
+      {
+        "id": "d/1nXkUJ_LQe2i7a_IGHSLcpLD7T3khOMLN",
+        "caption": "3D bioprinted human heart model, a leap toward custom organs.",
+        "position": 1
+      }
+    ]
+  },
+  {
+    "id": "nanotech-biotech-2026",
+    "title": "Nanotech: Revolutionizing the Future of Biotechnology",
+    "excerpt": "From dissolving pacemakers to brain chips, nanotechnology is making healthcare smaller, smarter, and minimally invasive.",
+    "department": "prayukti",
+    "date": "January 18, 2026",
+    "readTime": "4 min read",
+    "author": {
+      "name": "Anindya Ghosh",
+      "role": "7th Semester, Electronics and Communication Engineering"
+    },
+    "paragraphs": [
+      "The modern scientific community is excelling not only in exploring the uncharted corners of space and the deep trenches of the oceans but also in developing safer, quicker, and more efficient methodologies to strengthen the human body. Today’s researchers are striving to make humanity more resilient to sudden climate changes and unexpected pandemics. They are doing this through rapid innovations in biotechnology, robotics, and advanced medical diagnostics fields once thought to exist only in science fiction. Concepts such as cyborg augmentation, robotic surgeries, and bio-integrated implants are no longer distant dreams but tangible achievements shaping the future of medicine.",
+      "A revolution that has truly captured the world’s attention is the emergence of Nanotechnology, the science of manipulating matter at an atomic and molecular scale. Its applications in medicine are particularly transformative. Scientists have begun to develop micro-sized medical devices capable of performing tasks that once required large and complex machines. The philosophy driving this revolution is simple yet powerful: effectiveness does not depend on size. Some of the most powerful medical innovations today are smaller than a grain of rice.",
+      "One extraordinary example is a micro-sized pacemaker developed by researchers at Northwestern University. This tiny device can fit into the tip of a surgical needle, making it possible to implant it with minimal invasion. What makes it even more remarkable is that it can be safely implanted into fragile patients, including premature babies who are only seven or eight months old. The pacemaker functions in coordination with a small patch placed on the chest, equipped with a light sensor that constantly monitors the heart’s activity. If any irregularity is detected, the patch activates the pacemaker through controlled light pulses, helping the heart maintain its rhythm.",
+      "Perhaps the most astonishing feature of this innovation is that it dissolves naturally once its job is done. Instead of requiring a second surgery for removal, the pacemaker harmlessly breaks down into biocompatible components that are naturally filtered out by the body’s excretory system. This marks a revolutionary step forward in temporary medical implants safe, efficient, and self-eliminating.",
+      "Beyond this, several other technologies are shaping the same vision of a seamless union between biology and machine intelligence. Neuralink’s brain–computer interface chip is designed to interpret brain signals, potentially restoring movement or communication for people with neurological disorders. Similarly, PillBot, a micro-robotic camera the size of a capsule, can travel through the human digestive system and provide high-definition internal imaging without invasive endoscopy. These innovations collectively redefine what it means to diagnose and treat disease.",
+      "The integration of robotics and nanotechnology in healthcare has opened doors to possibilities that once belonged to the realm of imagination. Doctors can now perform remote surgeries with precision robots—making it feasible for a surgeon in London to operate on a patient in Delhi without being physically present. Each advancement moves medicine closer to being faster, smarter, and more personalized.",
+      "However, as humanity stands on the threshold of this Microscopic revolution, it must also reflect on the ethical boundaries being redefined. Questions arise: How much control should we give to autonomous or semi-autonomous medical devices inside the human body? What if a micro-robot malfunctions or is misused? Will the ability to enhance or repair the body blur the line between natural and artificial humanity?",
+      "The core thesis of this discussion is clear and concrete: Nanotechnology and bio-integrated robotics represent the next phase of medical evolution, one that prioritizes efficiency, minimal invasion, and patient safety, but simultaneously demands ethical responsibility and global accessibility.",
+      "In conclusion, the invisible world of nanotechnology promises to make healthcare more precise and personalized than ever before. From dissolving pacemakers to robotic cameras and brain chips, the future of medicine is unfolding at a microscopic scale. These invisible healers are not just tools of innovation, they are symbols of human creativity and perseverance. Yet, as their power grows, so does our obligation to guide their development wisely, ensuring that technology remains a faithful ally in preserving, not redefining, the essence of human life."
+    ],
+    "images": [
+      {
+        "id": "d/11jGdWs8Woo2r72qMUCCOA6Jxv0apxSEs",
+        "caption": "Micro-pacemaker: Tiny tech transforming heart care.",
+        "position": 1
+      }
+    ]
+  },
+  {
+    "id": "photonic-plasmonic-2026",
+    "title": "Photonic and Plasmonic Materials for Ultra-Fast Computing",
+    "excerpt": "Light-based tech overcomes silicon limits, enabling AI, quantum computing, and data centers at photon speeds with less heat.",
+    "department": "prayukti",
+    "date": "January 18, 2026",
+    "readTime": "4 min read",
+    "author": {
+      "name": "Durba Kushari",
+      "role": "2nd Year, MCA"
+    },
+    "paragraphs": [
+      "<b>ARTICLE ON</b><br>“Photonic and Plasmonic Materials for Ultra-Fast Computing”",
+      "<b>Abstract</b>",
+      "As artificial intelligence, big data, and high-performance computing continue to expand, traditional silicon-based systems are reaching their limits. High power consumption, heat generation, and data bottlenecks restrict performance.",
+      "To overcome these challenges, scientists are turning to photonic and plasmonic materials, which rely on light instead of electrons. Photonics enables information transfer at the speed of light, while plasmonics confines light to nanoscale dimensions, allowing ultra-fast and energy-efficient processing.",
+      "Though fabrication and integration remain difficult, these technologies promise a new era of computing defined by speed, scalability, and sustainability.",
+      "<b>Keywords</b>",
+      "Photonic materials, Plasmonic materials, Ultra-fast computing, Artificial intelligence, Optical interconnects, Quantum computing, High-performance computing, Energy-efficient technology.",
+      "<b>1. Introduction</b>",
+      "The rise of AI, quantum computing, and cloud networks has exposed the weaknesses of conventional silicon electronics. Faster data transfer and higher computational density are essential, yet electrons face physical limitations such as resistive heating and restricted bandwidth.",
+      "Photonic and plasmonic materials address these barriers by using photons for data transmission and computation. Light moves faster, carries more information, and generates less heat, providing the foundation for ultra-fast, energy-efficient computing.",
+      "<b>2. Photonics and Plasmonics</b>",
+      "<b>2.1 Photonics</b>",
+      "Photonics involves generating, controlling, and detecting photons—the carriers of light. Key components include lasers, optical fibers, and modulators that transmit and process data through light rather than electricity. Photonic processors and optical interconnects already show potential in speeding up artificial intelligence and large-scale data systems.",
+      "Key components include:",
+      "● Lasers: Generate light for data transmission and computation.",
+      "● Optical fibers: Serve as high-speed data conduits.",
+      "● Modulators and detectors: Convert signals between electronic and optical domains.",
+      "<b>2.2 Plasmonics</b>",
+      "Plasmonics studies electron oscillations at metal-dielectric interfaces. By trapping light within nanoscale regions, plasmonic devices achieve extremely fast signal switching at terahertz frequencies.",
+      "They offer compact design, high data density, and integration with existing semiconductor platforms, creating powerful nanoscale computing units.",
+      "Advantages of plasmonics include:",
+      "● Compact device design due to subwavelength confinement",
+      "● Enhanced integration of photonic devices with existing microchips",
+      "● Development of nanoscale modulators, sensors, and switches for computing",
+      "<b>3. Current Developments</b>",
+      "● <b>Plasmonic Resonators:</b> Developed in Germany and Denmark, these devices process data using light, achieving speeds potentially 1000× faster than traditional chips. They combine quantum and classical effects to enhance computational performance, which could benefit real-time AI applications such as image recognition or autonomous navigation.",
+      "● <b>Photonic Chips for AI:</b> Columbia Engineering has designed photonic chips capable of high-speed data transfer over optical fibers. These chips reduce latency, support parallel processing, and improve energy efficiency. Integration with CMOS electronics ensures they can be adopted in existing infrastructures.",
+      "● <b>Fully Integrated Photonic Processors:</b> MIT researchers developed processors that perform deep neural network computations entirely optically. Computations take less than 0.5 nanoseconds, with over 92% accuracy. Applications include autonomous vehicles, telecommunications, and AI simulations.",
+      "● <b>All-Optical Data Routing:</b> Photonic circuits can route information without converting it back to electrons, reducing latency and energy loss. This technology is critical for cloud infrastructure and high-frequency trading platforms.",
+      "● <b>Plasmonic Sensors:</b> Nanoscale sensors detect environmental changes and can be integrated with computing systems for adaptive processing. This has applications in edge computing, IoT devices, and predictive AI systems.",
+      "<b>4. Applications</b>",
+      "Recent research demonstrates photonic chips capable of performing neural network computations entirely with light, delivering results within nanoseconds. Plasmonic resonators and waveguides operate at unprecedented speeds suitable for real-time AI and telecommunications.",
+      "Applications include:",
+      "● <b>Artificial Intelligence:</b> Photonic processors support parallel operations, enabling faster model training and lower energy consumption.",
+      "● <b>Data Centers:</b> Optical interconnects enhance data throughput, reducing latency and cooling requirements.",
+      "● <b>Quantum Computing:</b> Light-based qubits are less prone to heat-related errors and allow secure, high-speed communication.",
+      "● <b>Telecommunications:</b> Photonic and plasmonic systems boost bandwidth, stability, and responsiveness for 5G and future networks.",
+      "<b>5. Advantages and Challenges</b>",
+      "The advantages are clear:",
+      "● Speed: Light-based systems operate at nanosecond scales.",
+      "● Efficiency: Reduced heat minimizes power demand.",
+      "● Miniaturization: Nanoscale design increases density.",
+      "● Parallelism: Photons carry multiple data channels simultaneously.",
+      "However, challenges remain. Integrating photonic and plasmonic components into electronic circuits demands extreme precision. Manufacturing at the nanoscale is expensive, and material stability under varying conditions can affect reliability.",
+      "Standardization and large-scale production processes are also still evolving.",
+      "<b>6. Future Outlook and Conclusion</b>",
+      "The future lies in hybrid electronic-photonic architectures that combine traditional logic with optical speed. Advances in nanofabrication and AI-driven circuit design are making scalable, efficient photonic systems increasingly realistic.",
+      "Quantum photonics may further enhance computing security and power, while sustainable light-based technologies could drastically cut global data-center energy usage.",
+      "In conclusion, photonic and plasmonic materials are reshaping the future of computing by surpassing the limits of silicon electronics. They promise extraordinary speed, minimal energy loss, and high scalability—qualities essential for modern AI, cloud, and quantum technologies.",
+      "As fabrication improves and integration challenges are resolved, these materials will define the next generation of ultra-fast, intelligent, and sustainable computing systems."
+    ],
+    "images": [
+      {
+        "id": "d/1rLi9VUAbutwx6krfi2H5WuTlY1O4wuLu",
+        "caption": "Photonic chip: Light-speed computing breakthrough.",
+        "position": 1
+      }
+    ]
+  },
+
+  {
+    "id": "bci-neurons-network-2026",
+    "title": "From Neurons To Network: The Development Of Brain-Computer Interfaces",
+    "excerpt": "BCIs turn thoughts into actions—control devices, restore speech, and empower the paralyzed via Neuralink and Synchron innovations.",
+    "department": "prayukti",
+    "date": "January 18, 2026",
+    "readTime": "4 min read",
+    "author": {
+      "name": "Ivy Kundu",
+      "role": "1st Year, CSE"
+    },
+    "paragraphs": [
+      "Have you ever wondered how amazing it would have been if you could write your emails, complete your school projects, or even play games on your laptop or computer without even moving a single muscle, by just thinking about it? Sounds fictional, right? Well, no more! Thanks to our emerging innovations, we now have a very unique technology, also known as Brain-Computer Interface (BCI). Companies like Neuralink and Synchron are leading this technological revolution of turning thoughts into actions.<br><br><b>INTRODUCTION TO BRAIN-COMPUTER INTERFACE (BCIs)</b> :- <br>Okay, so now let’s actually dive deep into this unmatched innovation! BCIs create a direct communication pathway between the human brain and computers to restore movement, speech, and freedom, especially for the individuals suffering from paralysis and specially abled people. It’s basically a system that can read and interpret our brain signals using various software and translate those into digital commands that are understandable for the computer or any other devices it is connected to.",
+      "<b>HOW BCIs WORK?</b><br>1. Signal Acquisition – BCI sensors, often found in caps or headsets or sometimes even used as microelectrode arrays in invasive methods, measure the brain’s electrical signals.<br>2. Signal Processing – A computer is used for analyzing the received brain signals to filter out the noise and find specific patterns.<br>3. Feature Extraction – Software is used to extract the key features from the received signals and translate them into commands that represent the intent of the user.<br>4. Execution – These interpreted commands are then sent to an output device to perform the required function.",
+      "<b>APPLICATIONS OF BCIs :-</b>",
+      "MEDICAL PURPOSES – BCI is particularly beneficial for paralyzed or severely disabled individuals to communicate or move more.",
+      "ROBOTICS – It is used for operating robotic limbs or prosthetics.",
+      "MENTAL HEALTH AND COGNITIVE RESEARCH – BCIs help to study brain patterns and hence help us detect depression, epilepsy, and many more nervous ailments.",
+      "<b>TYPES OF BCIs :-</b>",
+      "There are 3 types of BCIs -",
+      "<b>a) INVASIVE BCI :</b>",
+      "These are the types that are surgically implanted directly into the brain tissue.",
+      "The advantage of these types is that they offer the strongest signals, allowing very precise control.",
+      "But it’s very risky, as brain surgery is needed to implant it inside.",
+      "Example: Monitoring the activity of individual neurons for advanced prosthetic control and communication.",
+      "<b>b) NON – INVASIVE BCI :</b>",
+      "In these types, the sensors are placed on the scalp, external to the skull.",
+      "These are the safest and easiest options, as they don’t require surgery.",
+      "Signals are weaker and less precise as they have to pass through the skull.",
+      "Example: Games, augmented reality, and controlling robots.",
+      "<b>c) PARTIALLY – INVASIVE BCI :</b>",
+      "These are the last types where the electrodes are placed on the surface of the brain, just under the skull. This is also known as electrocorticography (ECoG).",
+      "They provide stronger signals compared to noninvasive methods but weaker than invasive methods. They have a lower risk of scarring.",
+      "But it still requires surgical methods to place these electrodes in our brain.",
+      "Example: ECoG.",
+      "<b>RECENT ADVANCEMENTS IN THIS FIELD :-</b>",
+      "1. In January 2024, Noland Arbaugh, a 30-year-old man who has been paralyzed from his shoulders down since 2016 after a fatal accident, was the first human to receive Neuralink’s brain chip implant.",
+      "He is now able to control a computer cursor and play games just by thinking about moving his fingers! (Neuralink Corp. is an American neurotechnology company, founded by Elon Musk with a team of eight scientists).",
+      "2. The researchers at the University of California have developed a BCI technology that translates brain signals (thoughts) into real-time speeches.",
+      "It is specially developed for the people suffering from paralysis and who have lost their ability to talk and to foster communication between them and the world.",
+      "3. To reduce the risks of invasive BCIs, Synchron developed the Stentrode BCI, which is an endovascular brain-computer interface and is implanted through a blood vessel and placed in the motor cortex, where it detects brain signals.",
+      "This process is minimally invasive and helps people with paralysis to control digital devices by their thoughts. (Synchron is an Australian-founded BCI company that makes an implantable brain-computer interface called stentrode).",
+      "<b>FINAL TAKEAWAY :-</b>",
+      "Brain-computer interfaces are definitely a marvelous wonder of science. By its help, the people who once lost their ability to speak, move, or think and gave up on life can dare to hope and live again.",
+      "However, everything comes with a risk, and so do these. It’s extremely important to keep the consent and control of these brain data with a trustworthy and safe person.",
+      "Hacking of neural data can lead to its misuse, which will in turn harm the patient. Also for the surgical methods, there is always a risk associated with them.",
+      "BCIs can be a game-changing and powerful tool if used correctly in the right way, that is – using it to serve humanity, not against it."
+    ],
+    "images": [
+      {
+        "id": "d/1EveM0Cfs2TyG-F--0m27EjOH-2UAx5XK",
+        "caption": "Brain-computer interface: Turning thought into action.",
+        "position": 1
+      }
+    ]
+  },
+  {
+    "id": "gpu-beyond-gaming-2026",
+    "title": "GRAPHICS PROCESSING UNIT",
+    "excerpt": "GPUs are built for massive parallel processing—powering gaming, video editing, VFX rendering, and large-scale AI training.",
+    "department": "prayukti",
+    "date": "January 18, 2026",
+    "readTime": "4 min read",
+    "author": {
+      "name": "Abhinav Mishra",
+      "role": "1st Year, CSBS"
+    },
+    "paragraphs": [
+      "When we think about GPUs we usually think about gaming and how well a game performs given the laptop, desktop or any kind of device someone has. What I am going to tell you with this article is that there is more to GPUs than just gaming.",
+      "Graphics processing unit, GPU in short is a specialised processing unit that is installed into a laptop, a desktop, a game console like the PS5 and Xbox, or even a mobile phone. The fact that makes a GPU different from a CPU, not specifically superior, is that contrary to CPUs which typically have 4-16 cores, GPUs have thousands of efficient processing cores which facilitate parallel processing i.e. a lot of processes can be done at the same time. At first upon its discovery its only use was thought to accelerate computer graphics and image processing. As times changed their usage started to skyrocket. As of now it's in almost every high-end system. The design of its circuit is capable of doing a variety of tasks in parallel to each other thus, now it’s used in video editing, training AI models, in architecture and rendering complex stuff on devices.",
+      "There are many kinds of GPUs as of today, discrete GPUs, integrated GPUs and data-centre/ AI GPUs. Integrated GPUs are included with the CPU to help it consume less battery but do a decent job at handling parallel tasks, not as great as a dedicated GPU but it gets the job done in less power usage. Then comes the dedicated GPUs a.k.a. the discrete GPUs, these require a lot of energy to run but when they do, they don’t disappoint. They give out excellent performance depending on the model, they give far better performance than the integrated GPUs.",
+      "In the world there are only a few renowned companies who make GPU namely NVidia, AMD and a recent player in the GPU market but has been in the industry for a very long time Intel. NVidia being the biggest and oldest player of the GPU market in the first quarter of the year 2025 held a market share of 92% and AMD held the remaining 8%,in the second quarter of the year NVidia according to my sources has been on an upward trend with a market share of 94% and AMD with the remaining 6% as Intel has released recently its market share is negligible.",
+      "Open AI the company behind chat GPT does a lot of GPU purchases majority of which is from NVidia, according to a recent news they are expanding their GPU capacity to hold at least 1million GPUs. In July of 2025, CEO Sam Altman stated that OpenAI would “cross 1 million GPUs this year”. The reason behind these purchases of GPUs from AI companies is also a show of the parallel processing power of GPUs, this is the thing that is required the most by these huge AI language models because they do a lot of processes when a user gives a prompt. In August 2025, OpenAI reported the use of over 200,000 GPUs.",
+      "They have a lot of work in the movies and entertainment industry as well, it is used for its 3d rendering, video editing and special effects. The Dune movies and the transformer movies use a lot of special effects and 3d rendering thus requiring a lot of GPUs and performance power.",
+      "The Dune, released on 22nd October 2021 was a movie that heavily relied on GPUs for their parallel processing to significantly accelerate the rendering of complex 3D scenes, such as the colossal Sandworms, the intricate Ornithopters, the vast desert landscapes of Arrakis, and the destruction of the city of Arrakeen. They mentioned having to processes “petabytes of data” due to their decision of rendering every single grain of sand on the vast and expansive desert of Arrakis. GPUs’ power to generate realistic environmental effects like the massive sand and dust storms and the heavy movement of massive Sandworms in a significantly less time compared to a CPU.",
+      "The Transformer movies from several studios like Paramount pictures and DreamWorks studios made major breakthroughs throughout the making of these movies, these movies involved major usages of GPUs throughout as they had to render the whole robot who’s transformations were incredibly detailed and had tens of, thousands of moving parts at the same time, the VFX and the special effects in the movies were revolutionary though the stories weren’t as well received by the masses.",
+      "As of September 2025, NVidia reported a market capitalization of $4.38 trillion and AMD reported a market capital of $354 billion. Undeniably I am also utilising the use of these huge language models as I am writing this, namely Gemini to make searching for accurate facts easier by linking me to different articles and tweets made by renowned people."
+    ],
+    "images": [
+      {
+        "id": "d/1huKyq4c1LU01nE5XWinO6x4VA7RFKAwt",
+        "caption": "Discrete GPU: Parallel compute beyond gaming.",
+        "position": 1
+      }
+    ]
+  },
+  {
+    "id": "federated-learning-iot-privacy-2026",
+    "title": "HOW FEDERATED LEARNING IS TRANSFORMING DATA PRIVACY IN IOT DEVICES",
+    "excerpt": "Federated Learning enables IoT devices to train AI models locally, improving intelligence while keeping sensitive user data private.",
+    "department": "prayukti",
+    "date": "January 18, 2026",
+    "readTime": "4 min read",
+    "author": {
+      "name": "Dip Bhattacharyya",
+      "role": "3rd Year, Department of Computer Science and Engineering, Academy of Technology"
+    },
+    "paragraphs": [
+      "<b>HOW FEDERATED LEARNING IS TRANSFORMING DATA PRIVACY IN IOT DEVICES</b>",
+      "By Dip Bhattacharyya",
+      "3rd Year, Department of Computer Science and Engineering, Academy of Technology",
+      "<b>Abstract</b>",
+      "With the rapid spread of the Internet of Things (IoT), enormous volumes of information are produced by connected devices every moment. These smart systems have made human life more efficient, but they also expose users to increasing risks of data misuse and privacy invasion.",
+      "Federated Learning (FL), an emerging branch of artificial intelligence, proposes a fresh solution — training intelligent models directly on local devices instead of gathering all data in one place.",
+      "This article explores how Federated Learning helps protect personal information in IoT environments, its core mechanisms, its applications, and the challenges that lie ahead.",
+      "<b>1. Introduction</b>",
+      "The Internet of Things has changed how people interact with technology. From smart lighting and wearable trackers to autonomous machines, billions of devices are constantly exchanging information to function intelligently. However, most learning systems still depend on a central server where all data is collected and analysed.",
+      "This traditional approach poses a problem: it forces users to give up control of their information. As data travels across networks and gets stored in large servers, it becomes more vulnerable to misuse and hacking.",
+      "Federated Learning offers a creative way to solve this — it lets devices learn collectively without exposing private data to outsiders.",
+      "<b>2. What Makes Federated Learning Different</b>",
+      "Instead of following the “collect and train” rule of traditional models, Federated Learning trains a model on each device itself. Every participating device processes its own information, learns patterns from it, and then shares only a small numerical summary of what it learned — not the actual data.",
+      "A coordinating system gathers these summaries from all devices and refines a shared global model, which is then redistributed for further improvement.",
+      "By repeating this cycle, the model becomes smarter while the original data remains within the owner’s device. This structure creates a balance between intelligence and privacy — something conventional machine learning has always struggled to achieve.",
+      "<b>3. Why It Fits the IoT Ecosystem</b>",
+      "The IoT world already works as a network of distributed nodes — thousands of sensors, appliances, and machines generating data at the edge. Federated Learning naturally fits into this environment.",
+      "Some of its benefits include:",
+      "● Privacy by design: Information stays on the device that produces it.",
+      "● Efficiency: Only learning updates are exchanged, reducing data traffic and delay.",
+      "● Personalization: Each device can maintain a locally optimized model that adapts to its user.",
+      "● Sustainability: It reduces the need for massive centralized storage systems.",
+      "Consider a wearable health device that monitors heartbeat patterns. It can learn to detect anomalies over time and still collaborate with other devices to improve the overall health-prediction system — all without sending private health data anywhere.",
+      "<b>4. How Federated Learning Protects Information</b>",
+      "To make the process even more secure, scientists combine Federated Learning with additional privacy-preserving techniques:",
+      "● Noisy updates: A small amount of mathematical noise is added to each update so individual contributions cannot be traced.",
+      "● Encrypted computation: Updates are encrypted before being sent, making it impossible for outsiders to read them.",
+      "● Collaborative protection: Devices work together to ensure that the central coordinator cannot see raw data from any participant.",
+      "These techniques ensure that even if communication channels are compromised, personal data remains inaccessible.",
+      "<b>5. Applications Across Industries</b>",
+      "Federated Learning is already shaping real-world innovations:",
+      "● Home automation: Smart assistants learn users’ habits locally, improving convenience while keeping voice data private.",
+      "● Healthcare: Medical IoT devices collectively refine diagnosis algorithms without sharing patient details.",
+      "● Automotive systems: Vehicles share driving knowledge to make roads safer, while location data remains hidden.",
+      "● Manufacturing: Machines optimize their performance collaboratively without leaking production details.",
+      "Through such examples, FL shows how learning systems can remain powerful without trading off user privacy.",
+      "<b>6. Current Obstacles and the Road Forward</b>",
+      "While promising, Federated Learning isn’t free of hurdles. IoT devices often have limited computing power and inconsistent internet connectivity. In addition, malicious participants might attempt to distort model training by sending manipulated updates.",
+      "To handle these issues, researchers are exploring hybrid approaches that merge edge computing, blockchain verification, and energy-efficient optimization algorithms. These improvements could make FL faster, safer, and easier to deploy on a global scale."
+    ],
+    "images": [
+      {
+        "id": "d/1XueviUns2jhRYDL3tnw1RpFtUn22dKVw",
+        "caption": "Federated Learning: Training AI locally on IoT devices to enhance privacy.",
+        "position": 1
+      }
+    ]
+  },
+  {
+    "id": "time-series-matrix-profile-overview-2026",
+    "title": "An Overview of Time Series Data Analysis",
+    "excerpt": "A structured overview of time series analysis using Matrix Profile methods such as STAMP and STOMP for efficient motif discovery and anomaly detection.",
+    "department": "prayukti",
+    "date": "January 18, 2026",
+    "readTime": "4 min read",
+    "author": {
+      "name": "Dr. Avishek Chakraborty",
+      "role": "Assistant Professor at Academy Of Technology | Applied & Engineering Mathematics"
+    },
+    "paragraphs": [
+      "<b>An Overview of Time Series Data Analysis</b>",
+      "by Dr. Avishek Chakraborty (World’s Top 2% Scientists 2022-2025 (List prepared by Standford University & Elsevier) | Assistant Professor at Academy Of Technology | Applied & Engineering Mathematics)",
+      "<b>Introduction</b>",
+      "Time series analysis captures temporal patterns in sequential data to identify trends, forecast values, detect anomalies, and find motifs.",
+      "Traditional models struggle with complex, non-stationary data, leading to scalable approaches like Matrix Profile methods (STAMP, STOMP) that efficiently uncover patterns and anomalies in large, irregular, or high-dimensional time series.",
+      "<b>Definitions</b>",
+      "We begin by defining the data type of interest, time series:",
+      "<b>Definition 1:</b> A time series T is a sequence of real-valued numbers ti: T = t1, t2, ..., tn where n is the length of T.",
+      "We are not interested in the global properties of time series, but in the similarity between local subsequences:",
+      "<b>Definition 2:</b> A subsequence Ti,m of a T is a continuous subset of the values from T of length m starting from position i. Ti,m = ti, ti+1,…, ti+m-1, where 1 ≤ i ≤ n-m+1.",
+      "<b>Definition 3:</b> A distance profile Di corresponding to query Ti,m and time series T is a vector of the Euclidean distances between a given query subsequence Ti,m and each subsequence in time series T.",
+      "Formally, Di = [di,1, di,2,…, di,n-m+1], where di,j (1 ≤ j ≤ n-m+1) is the distance between Ti,m and Tj,m.",
+      "The distance profile represents z-normalized Euclidean distances, forming a meta time series for T.",
+      "Figure 1: A subsequence Q compares with all in T, forming a distance profile.",
+      "<b>Definition 4:</b> A matrix profile P of time series T is a vector of the Euclidean distances between every subsequence of T and its nearest neighbor in T.",
+      "Formally, P = [min(D1), min(D2),…, min(Dn-m+1)],",
+      "Di is the distance profile for query Ti,m; P stores nearest-neighbor distances, while matrix profile index stores their locations.",
+      "Figure 2: A time series T, and its self-join matrix profile P.",
+      "<b>Definition 5:</b> A motif is defined as a pair or set of subsequences that exhibit high similarity, representing recurrent or characteristic patterns within the data.",
+      "Motifs capture the dominant temporal structures and repetitive behaviors inherent to the underlying process.",
+      "<b>Definition 6:</b> A discord is a subsequence that has the maximum distance from all other subsequences, thus representing an outlier or rare event within the time series.",
+      "<b>Algorithms</b>",
+      "<b>The STAMP Algorithm</b>",
+      "STAMP (Scalable Time series Anytime Matrix Profile), is an algorithm designed for efficient and scalable motif discovery in time series data.",
+      "It computes the Matrix Profile, a vector that stores, for every subsequence in a time series, the distance to its most similar subsequence.",
+      "The overall complexity of the algorithm is O(n2logn), where n is the length of the time series.",
+      "Table 1: The STAMP algorithm",
+      "<b>The STOMP Algorithm</b>",
+      "STOMP (Scalable Time series Ordered-search Matrix Profile), a faster variant of STAMP, sacrifices its anytime property for ordered (left-to-right) computation.",
+      "It achieves an O(n²) time complexity, offering an O(log n) speedup.",
+      "However, its ordered search makes it vulnerable to adversarial datasets where motifs appear only towards the right side.",
+      "Table 2: The STOMP algorithm",
+      "<b>Calculations</b>",
+      "<b>Matrix Profile</b>",
+      "Given a time series T=[t_1,t_2,…,t_n] and a subsequence length m:",
+      "There are n-m+1 subsequences:",
+      "T_i=[t_i,t_(i+1),…,t_(i+m-1)]",
+      "The Matrix Profile (MP) is defined as:",
+      "MP[i]=(min⁡)┬(j≠i) D(T_i,T_j)",
+      "where D(T_i,T_j) is z-normalized Euclidean distance between subsequences T_i and T_j.",
+      "<b>Distance Profile Computation</b>",
+      "To compute the distance between subsequences efficiently, we will perform dot products and statistics:",
+      "Step 1 — Compute Mean and Standard Deviation",
+      "For all subsequences of length m:",
+      "Step 2 — Compute the Dot Product Vector",
+      "For subsequence T_i and all subsequences T_j:",
+      "Computing this for every i,j directly is O(n^2 m)— too slow.",
+      "<b>STAMP — FFT-based Anytime Computation</b>",
+      "STAMP accelerates dot product computation using Fast Fourier Transform (FFT).",
+      "Step 1: Compute Cross-correlation via FFT",
+      "QT = IFFT(FFT(T_i) ⊙ FFT(T))",
+      "where ⊙ denotes element-wise multiplication and IFFT is the inverse FFT.",
+      "Step 2: Compute Distance Profile",
+      "This gives the distance between subsequence T_i and all other subsequences T_j.",
+      "STAMP processes subsequences in random order, updating the Matrix Profile incrementally.",
+      "Complexity: O(n^2) (but faster in practice due to FFT parallelization).",
+      "<b>STOMP — Incremental Dot Product Update</b>",
+      "STOMP avoids recomputing the FFT by using a sliding dot product update rule.",
+      "QT_(i,j) = dot product between T_i and T_j",
+      "STOMP computes:",
+      "QT_(i+1,j+1) = QT_(i,j) - t_i t_j + t_(i+m) t_(j+m)",
+      "This formula allows updating all dot products in O(1) time per element.",
+      "Then, compute distances as:",
+      "This sliding update makes STOMP extremely fast — no FFT needed after initialization.",
+      "<b>Conclusion</b>",
+      "In conclusion, time series analysis through Matrix Profile methods like STAMP and STOMP enables efficient detection of motifs and anomalies.",
+      "These algorithms provide scalable solutions for complex temporal data, enhancing pattern discovery, anomaly detection, and forecasting.",
+      "Their computational efficiency and adaptability make them vital tools in modern data-driven research and analytics."
+    ],
+    "images": [
+      {
+        "id": "d/1sa5daz9WquvooqwLnq5suMED3E18ck8L",
+        "caption": "Figure 1: A subsequence query Q matched against all subsequences in time series T to generate the distance profile D.",
+        "position": 1
+      },
+      {
+        "id": "d/109eSDlICisKV6fkZ9BbO6dYzJLIs2GzF",
+        "caption": "Figure 2: A time series T and its self-join Matrix Profile P, showing nearest-neighbor distances for each subsequence.",
+        "position": 2
+      },
+      {
+        "id": "d/1cVoIgfaRVTjxsnBkTI73YiBD-PW3z0W0",
+        "caption": "Table 1: Pseudocode of the STAMP algorithm (Scalable Time series Anytime Matrix Profile) for computing the matrix profile using random-order evaluation.",
+        "position": 3
+      },
+      {
+        "id": "d/1pGz91hjQ9cREr8V9Ow_PeYAVrPmyFgRn",
+        "caption": "Table 2: Pseudocode of the STOMP algorithm (Scalable Time series Ordered-search Matrix Profile) for ordered, fast computation of the matrix profile.",
+        "position": 4
+      },
+      {
+        "id": "d/1rl2aX_-BRtcZ79DR0Gc6hK8u2kGELVmq",
+        "caption": "Equation 1: Mean (μi) and standard deviation (σi) computation for each subsequence window of length m.",
+        "position": 5
+      },
+      {
+        "id": "d/1ZHpKWXAJ9zS0to3mC4NTs_gypG2S_ul3",
+        "caption": "Equation 2: Dot product QT[j] between a query subsequence and all target subsequences for similarity computation.",
+        "position": 6
+      },
+      {
+        "id": "d/14_8mzWHYyzjQt4bFSDcbnqfwMXVWq_JN",
+        "caption": "Equation 3: Distance profile Di[j] formula using z-normalized Euclidean distance computed from dot products and statistics.",
+        "position": 7
+      },
+      {
+        "id": "d/1_vDxQsYSZspkwuOHdcokNUHwtArLU_J1",
+        "caption": "Equation 4: STOMP incremental update rule for distance computation using sliding dot-product updates between successive subsequences.",
+        "position": 8
+      }
+    ]
+  },
+  {
+    "id": "rise-of-quantum-computing-2026",
+    "title": "The rise of Quantum Computing: Revolution of the future",
+    "excerpt": "Quantum computing is redefining the future of technology by using qubits instead of classical bits, unlocking breakthroughs in cybersecurity, medicine, materials, AI, and beyond.",
+    "department": "prayukti",
+    "date": "January 18, 2026",
+    "readTime": "4 min read",
+    "author": {
+      "name": "Abhishek Kumar",
+      "role": "1st Year, CSBS"
+    },
+    "paragraphs": [
+      "<b>The rise of Quantum Computing: Revolution of the future</b>",
+      "<b>What is quantum mechanics?</b>",
+      "First, we should know about quantum mechanics. Quantum mechanics is the branch of physics in which we learn about how matter and energy work at the smallest scales. Some of the examples are atoms, electrons, particles of light and many more....",
+      "We have learnt in our 11th and 12th standards about wave particles of light and particles, superposition, and the quantisation of energy. These are also some of the examples of quantum theory.",
+      "<b>A NEW ERA OF COMPUTING</b>",
+      "We should now imagine a world where computers don't just process data – they now understand the universe. Where molecules and materials are designed by simulating reality itself. This is the promise of quantum mechanics, the next evolution of the computing era.",
+      "Quantum computers are not fast; they are much faster than the supercomputers.",
+      "<b>Bits vs Qubits:</b>",
+      "Where many of the computers uses bits that are 0 or 1.",
+      "A quantum computer uses qubits (quantum bit) which represent 0,1 or a superposition of both states simultaneously.",
+      "<b>Why Quantum Machines Matter:</b>",
+      "Quantum computing isn’t just an academic subject; it’s a revolution waiting to happen.",
+      "Here are some of the machines which are ready to change different industries:",
+      "o Materials: Use designs of atoms to make materials that are stronger, lighter, and more efficient.",
+      "o Medicine & Biology: Study how molecules interact to find new medicines faster and improve them.",
+      "o Artificial Intelligence: Use quantum tech to make AI learn efficiently and predict things much faster.",
+      "<b>Designing the Quantum future:</b>",
+      "Many of the tech giants' companies, like IBM, Google, and Intel, are in a race to unlock quantum computing.",
+      "Governments and universities are investing billions into quantum research and education.",
+      "For today’s engineering students, this is more than just a trend—it's an invitation to be part of a new scientific era. The future will not be guided by classical machines but by quantum minds who dare to think beyond qubits.",
+      "<b>HOW QUANTUM COMPUTING IS A REVOLUTION FOR FUTURE?</b>",
+      "Quantum computing is changing the way we think about technology. Unlike the normal computer, which uses bits (0s & 1s), a quantum computer uses qubits. This makes quantum computers faster than the supercomputers and makes very complex problems easy to solve.",
+      "Here’s how it revolutionises the future:",
+      "1. CYBERSECURITY – Quantum computers break old code and create new and unbreakable encryption.",
+      "2. Energy & Environment – Quantum models can help to find the better materials for batteries and cleaner energy solutions.",
+      "3. Space & Research – Quantum power can handle huge amounts of data, helping scientists to explore space and understand the universe better.",
+      "4. Gaming & Entertainment – Quantum computers make more realistic graphics and virtual experiences that were impossible before.",
+      "5. Telecommunication & Networks – Quantum computers improve data transmission and network optimisation and even make secure global communication systems easier.",
+      "<b>How Quantum computing will play role in human life?</b>",
+      "Quantum computing will affect human life indirectly, by enabling breakthroughs in fields like medicine, materials science, and artificial intelligence, rather than by becoming a widely used personal device.",
+      "However, this future also carries risks, including threats to current cybersecurity and potential ethical concerns regarding privacy.",
+      "<b>Benefits to human life</b>",
+      "Faster, more effective drug discovery.",
+      "Quantum computers can simulate molecular and biochemical interactions with far greater accuracy than classical computers. This drastically speeds up the research and development of new medications, vaccines, and targeted treatments for diseases.",
+      "This has the potential to produce cures for diseases previously thought incurable, as researchers could discover new therapeutic compounds.",
+      "More personalised medicine.",
+      "By analysing vast amounts of genetic and clinical data, quantum algorithms can create personalised treatment plans tailored to an individual's unique genetic makeup and health profile.",
+      "This includes more accurate diagnoses and optimised therapies for conditions like cancer, Alzheimer's, and other chronic diseases.",
+      "Improved materials for everyday products.",
+      "Quantum computers can simulate the properties of materials at the atomic level, leading to the creation of new compounds with superior traits like greater strength, lighter weight, or improved conductivity.",
+      "This could lead to more efficient batteries, more robust construction materials, and advanced components for electronics and transport.",
+      "Quantum computing can \"supercharge\" AI, enabling the training of more powerful machine learning models with less energy consumption.",
+      "These models could be used for more accurate weather forecasting to aid agriculture, optimizing complex traffic flow in cities, and more effective resource management.",
+      "<b>Risks and challenges for humanity</b>",
+      "Threat to modern cybersecurity.",
+      "Quantum computers are a \"double-edged sword\" for data security. While they offer new forms of security like quantum encryption, they also have the potential to break the current public-key encryption methods (like RSA) that secure everything from online banking to private messaging.",
+      "Job market disruption.",
+      "While quantum computing will not cause mass automation like some other technologies, it will alter the labour market by making some roles obsolete and creating new ones.",
+      "Jobs involving manual labour in optimisation, like transportation planning, could be replaced by quantum-enhanced software. At the same time, new jobs will emerge in quantum algorithm design, engineering, and cybersecurity, requiring a workforce adaptation.",
+      "The digital divide and power imbalance.",
+      "The high cost and complexity of quantum computing infrastructure could initially limit its access to a few well-funded nations and corporations. This could lead to increased societal inequality and an unbalanced distribution of economic and technological power globally."
+    ],
+    "images": [
+      {
+        "id": "d/1Yod1v7bpkLVVQU9QA_KWRnFImUxMs_hw",
+        "caption": "Quantum Computing: Using qubits and superposition to unlock ultra-powerful computation beyond classical limits.",
+        "position": 1
+      },
+      {
+        "id": "d/1b8XNnkTyfwpxjM-FfIf5gSOLg8p6jyf6",
+        "caption": "Future Impact of Quantum Machines: Transforming cybersecurity, medicine, AI, energy solutions, and advanced research.",
+        "position": 2
+      }
+    ]
+  },
+  {
+    "id": "quantum-dawn-new-era-2026",
+    "title": "Quantum Computing: The Dawn of a New Computational Era",
+    "excerpt": "Quantum computing harnesses superposition and entanglement to solve complex problems beyond classical limits, transforming industries from cybersecurity to climate modelling.",
+    "department": "prayukti",
+    "date": "January 18, 2026",
+    "readTime": "4 min read",
+    "author": {
+      "name": "Sneha Sarkar",
+      "role": "Department of Electronics and Communication Engineering | 2nd Year | Roll no: 16900324205"
+    },
+    "paragraphs": [
+      "<b>Quantum Computing: \"The Dawn of a New Computational Era\"</b>",
+      "<b>Introduction</b>",
+      "In the fast-paced world of technology today, one innovation takes the cutting edge of scientific advancement — quantum computing.",
+      "In contrast to traditional computers that operate in terms of bits (0 or 1), quantum computers take advantage of the bizarre principles of quantum mechanics to compute information in ways previously inconceivable.",
+      "Using the quantum concepts of entanglement and superposition, these computers can perform numerous calculations simultaneously, maybe even solving problems beyond the capabilities of the most powerful supercomputers.",
+      "Quantum computing, from health research to cryptography, is the dawn of a new age of computing.",
+      "<b>The Science Behind Quantum Computing</b>",
+      "The fundamental quantum information unit is the quantum bit or qubit.",
+      "A traditional bit can only be 0 or 1, but a qubit can be a combination of both simultaneously as a superposition. This allows for enormous parallelism — quantum computers can test infinite possibilities simultaneously.",
+      "Entanglement is another important aspect, in which two or more qubits are so correlated that the state of one has an immediate effect on the other, irrespective of distance.",
+      "This interdependence is the source of the extraordinary processing speed and potential of quantum computers.",
+      "But reading (or measurement) a qubit collapses its quantum state into a specific value, so it becomes essential to create algorithms that manage this fine balance between probability and exactness with care.",
+      "<b>How Quantum Computers Work</b>",
+      "Quantum computers perform operations using quantum gates, which manipulate qubits through controlled rotations and entanglements.",
+      "These operations form a quantum circuit, executing algorithms such as Shor’s or Grover’s that demonstrate quantum advantage.",
+      "Since qubits are highly sensitive to the environment, systems typically need to be run at almost absolute-zero temperatures to stabilise.",
+      "Any kind of disturbance, even the smallest, can induce quantum decoherence and result in lost data.",
+      "Controlling this instability is one of the most formidable engineering challenges in current quantum technology.",
+      "<b>Major Quantum Hardware Platforms</b>",
+      "Top global players and research centres are testing various hardware technologies:",
+      "❖ Superconducting Qubits – Employed by IBM, Google, and Rigetti. These use superconducting circuits under cryogenic cooling.",
+      "❖ Trapped Ions – Embraced by IonQ and Honeywell, employing electromagnetic traps to hold charged atoms as qubits.",
+      "❖ Photonic Systems – Use photons (particles of light) for computation and offer potential for scalability and room-temperature operation.",
+      "❖ Topological Qubits – An emerging method spearheaded by Microsoft, which is intended to be more stable and less prone to noise.",
+      "Both approaches have the same objective in mind — a scalable, fault-resistant quantum computer that can reliably execute real-world tasks.",
+      "<b>Applications Across Industries</b>",
+      "Quantum computing has far-reaching impacts that go well beyond the lab. Some of the most promising applications are:",
+      "<b>1. Cryptography and Cybersecurity:</b> Quantum computers can decrypt traditional encryption systems but also facilitate unbreakable quantum key distribution (QKD) for ultra-secure communications.",
+      "<b>2. Drug Discovery and Molecular Simulation:</b> Quantum computers can model molecular behaviour at the atomic level, cutting time and expense hugely in drug research and materials science.",
+      "<b>3. Optimisation and Logistics:</b> From airline scheduling to city traffic systems, quantum algorithms can search millions of possible solutions in parallel to determine the best one.",
+      "<b>4. Artificial Intelligence and Machine Learning:</b> Quantum Machine Learning (QML) combines quantum computation with AI, improving pattern recognition and data analysis abilities.",
+      "<b>5. Climate Modelling and Energy Systems:</b> Quantum systems can simulate atmospheric processes and optimise renewable energy grids to support global sustainability.",
+      "<b>Challenges and Current Limitations</b>",
+      "Despite impressive progress, real-world quantum computing still has major barriers to overcome:",
+      "❖ Quantum Decoherence – Qubits lose their quantum characteristics very easily due to environmental interactions.",
+      "❖ Error Correction – Quantum systems need sophisticated error-correcting codes involving many physical qubits to encode a single logical qubit.",
+      "❖ Scalability – Constructing machines with thousands or millions of reliable qubits continues to be a tremendous engineering challenge.",
+      "❖ Algorithm Development – There are not many algorithms yet that demonstrate explicit supremacy over classical approaches.",
+      "❖ Infrastructure and Cost – Quantum hardware requires special conditions, so it is costly to run.",
+      "These challenges will be essential in breaking through to demonstration prototypes to commercially useful quantum systems.",
+      "<b>Recent Global Developments</b>",
+      "The race for quantum supremacy is in full motion globally:",
+      "❖ IBM aims to build a 100,000-qubit quantum computer within the next decade.",
+      "❖ Google achieved quantum supremacy in 2019 by solving a problem in seconds it would take classical supercomputers thousands of years.",
+      "❖ D-Wave continues to refine quantum annealing for industrial optimisation problems.",
+      "❖ Startups like IonQ, Quantinuum, and Xanadu are leading innovations in hardware and cloud-based quantum computing.",
+      "❖ The advent of Quantum-as-a-Service (QaaS) systems like IBM Quantum Experience, Amazon Bracket, and Microsoft Azure Quantum opened worldwide access to actual quantum processors, promoting education and research collaboration.",
+      "<b>The Road Ahead</b>",
+      "We are now in the NISQ (Noisy Intermediate-Scale Quantum) phase, where machines have few qubits but are already able to conduct useful computations.",
+      "What is needed next is fault-tolerant quantum computing, where errors are completely corrected and heavy-scale computations can be done.",
+      "The future will involve hybrid configurations of classical and quantum computing — taking the best of both.",
+      "As quantum computing increasingly becomes more prevalent in society, ethical implications, data protection, and international cooperation will be vital.",
+      "Just as the transistor shaped the 20th century, quantum technology could shape the 21st.",
+      "<b>Conclusion</b>",
+      "Quantum computing represents the next monumental step in human ingenuity. It calls into question the fundamental nature of computation, challenging what technology can do.",
+      "While still in its infancy, developments in the last ten years have been stunning — and the next decade could be revolutionary.",
+      "With constant research, cross-disciplinary collaboration, and ethical development, quantum computing will in the near future develop from speculative fascination to common purpose.",
+      "It is not only a scientific achievement, but also an indication that the human imagination, led by physics, can mould the future itself."
+    ],
+    "images": [
+      {
+        "id": "d/1PwjTv9PkRsWMnXW_kAK4exjhJyq-2rCW",
+        "caption": "Quantum Computing: The dawn of a new computational era driven by qubits, superposition, and entanglement.",
+        "position": 1
+      }
+    ]
+  },
+  {
+    "id": "psychology-of-the-phish-2026",
+    "title": "THE PSYCHOLOGY OF THE PHISH: UNDERSTANDING AND DEFEATING SOCIAL ENGINEERING",
+    "excerpt": "Phishing succeeds by exploiting human psychology—authority, fear, urgency, and trust. Understanding these tactics helps individuals and organizations prevent breaches and respond faster.",
+    "department": "prayukti",
+    "date": "January 18, 2026",
+    "readTime": "4 min read",
+    "author": {
+      "name": "Promit Chaudhuri",
+      "role": "4th Year, ECE"
+    },
+    "paragraphs": [
+      "<b>THE PSYCHOLOGY OF THE PHISH: UNDERSTANDING AND DEFEATING SOCIAL ENGINEERING</b>",
+      "Always pause when you receive what seems to be an urgent official letter, package tracking notification, or a request from a system administrator. These are common starting points for social engineering attacks.",
+      "Social engineering manipulates emotions to bypass technical defenses. Phishing is the most common type. In phishing, a hacker pretends to be a trustworthy organization and tricks victims into giving away passwords, financial information, or downloading harmful software.",
+      "Phishing attacks usually follow a pattern that begins with research. The attacker gathers personal and professional information about the target, such as their name, job title, and social media activity, to make their approach more believable.",
+      "They then create a convincing message. This could be an email or text that appears to come from a legitimate source. It often looks like a security alert, an invoice, or an urgent policy change.",
+      "Next, they send the message with a hook. The message might include a harmful attachment that installs malware or a link that leads to a fake login page. If the target takes the bait, the attacker collects credentials or gains remote access.",
+      "This access allows them to exploit systems, steal information, and launch more complex attacks like Business Email Compromise (BEC).",
+      "The real-life effects of these attacks can be serious and varied. For example, the cyber-espionage group APT36 used PDFs that looked like government documents to compromise Indian defense personnel. They redirected victims to a fake NIC login page to steal their credentials.",
+      "In another ongoing campaign, hackers tricked Microsoft staff into giving up Multi-Factor Authentication (MFA) codes and passwords by targeting outdated ADFS systems.",
+      "Scams can also disrupt daily life. In Kolkata, fake \"e-challan\" or electronic challan (traffic ticket) messages on WhatsApp and SMS deceived victims into paying fines through harmful links, leading to large unauthorized financial deductions.",
+      "Phishing works well because attackers exploit human psychology, not because users lack knowledge.",
+      "They often use authority by posing as IT staff, a manager, or a bank to pressure compliance.",
+      "They also create fear and urgency by threatening account lockouts or fines if immediate action is not taken.",
+      "To boost their credibility, they use official logos, professional email formats, and tactics like domain mimicry or sender spoofing.",
+      "Sometimes, they even offer rewards or refunds to entice visitors.",
+      "Technology increases the threat. Research shows that large language models (LLMs) are now used to create convincing phishing messages at scale, making it harder for users and some defense systems to spot them.",
+      "New tactics include combining QR codes with the message delivery to bypass traditional filters and lure users onto malicious websites.",
+      "To avoid falling for these tactics, individuals need to take specific defensive actions.",
+      "Always hover over links before clicking to check the sender’s information and the URL, looking for subtle misspellings or domain tricks like \"micros0ft.com.\"",
+      "Stay skeptical about urgency; legitimate organizations rarely rush action under threat, so if a message feels hurried, take time to confirm its authenticity.",
+      "Never enable macros or open unknown attachments, especially if a file prompts you to enable content to view it.",
+      "Use Multi-Factor Authentication (MFA), ideally through hardware or app-based methods, as it creates a strong barrier although a password is stolen.",
+      "Organizations should also conduct regular training and testing through phishing-simulation drills to raise awareness.",
+      "Always verify requests through a different communication method. If someone asks for money or credentials, confirm it using a trusted phone number or direct contact instead of replying to the same message thread.",
+      "Other technical measures include updating software, using anti-phishing tools to monitor unusual activity, and separating accounts to limit privileges.",
+      "Preventing phishing is essential. It is often the first breach that leads to financial and data loss, allowing attackers to steal intellectual property and money.",
+      "Beyond financial harm, it negatively impacts an organization’s reputation. A single compromised account can send harmful messages to all its contacts, eroding trust.",
+      "The threat is widespread; phishing can trigger a chain reaction, allowing attackers to use one person’s access to target colleagues or partners.",
+      "Moreover, phishing poses a larger risk to critical infrastructure and national security when Advanced Persistent Threat (APT) campaigns target defense, government, and energy systems.",
+      "The cost of addressing a phishing breach, which includes audits, legal fees, and system fixes, is usually much higher than investing in prevention.",
+      "This is particularly true in India, which ranks second globally in phishing incidents, having blocked over 80 million attempts in 2024.",
+      "However, no organization is entirely safe. A quick response and reporting protocol are crucial when a breach occurs.",
+      "The first step is to contain the breach by isolating compromised systems, revoking sessions, resetting credentials, and preserving digital evidence.",
+      "Next, inform internal stakeholders, including IT, compliance, and management, to coordinate the response.",
+      "In India, reporting is legally required. Under the CERT-In Cyber Security Directions (2022), phishing and other specified incidents must be reported to CERT-In within six hours of detection at incident@cert-in.org.in.",
+      "Government agencies must also report to NIC-CERT.",
+      "Meanwhile, a formal complaint should be filed with law enforcement through the National Cyber Crime Reporting Portal (cybercrime.gov.in) or by calling 1930, especially for financial fraud.",
+      "After the required reporting, remediation is necessary. This involves forensic analysis, notifying affected individuals, and transparent communication to rebuild trust.",
+      "Finally, organizations should improve their training, security policies, and monitoring to reduce the risk of future attacks.",
+      "Phishing and social engineering continually evolve, preying on psychological vulnerabilities as defenses advance.",
+      "To counter this growing threat, consistent awareness, vigilance, and disciplined responses are essential.",
+      "Every pause before acting is a critical step in safeguarding not just one account but the entire digital environment."
+    ],
+    "images": [
+      {
+        "id": "d/1vpskEk7WfVazbwKblgfsU608Vr0hAsBK",
+        "caption": "Phishing Awareness: Understanding social engineering tactics to protect credentials, finances, and digital trust.",
+        "position": 1
+      }
+    ]
+  }
 ]

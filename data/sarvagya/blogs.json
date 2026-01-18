@@ -1,62 +1,37 @@
 [
   {
-  "id": "tech-fest-2025",
-  "title": "The Future of AI on Campus",
-  "excerpt": "A deep dive into how machine learning is optimizing our library systems.",
-  "department": "Sarvagya",
-  "date": "October 12, 2025",
-  "readTime": "4 min read",
-  "author": {
-    "name": "Rohan Das",
-    "role": "3rd Year, CSE"
-  },
-  "paragraphs": [
-    "Artificial Intelligence is often seen as a distant future technology, but on our campus, it is already happening. The new library system implemented last month uses basic ML algorithms to sort books.",
-    "I spoke with the Dean regarding this shift. He mentioned that efficiency has increased by 40% since the deployment. Students can now find research papers in seconds rather than minutes.",
-    "However, there were challenges. The initial dataset was messy, leading to some hilarious misclassifications. For example, 'The C++ Programming Language' was briefly categorized under 'Foreign Languages'.",
-    "The team is now working on phase two: facial recognition for entry. This has raised some privacy concerns among the student body, which the administration promises to address in the next town hall."
-  ],
-  "images": [
-    {
-      "id": "d/1A-2B-3C-GOOGLE-ID",
-      "caption": "The new automated kiosk at the Central Library.",
-      "position": 1
+    "id": "why-being-average-is-sometimes-better-2026",
+    "title": "Why being average is sometimes better.",
+    "excerpt": "Being average can offer the best of both worlds—learning from high achievers while supporting those who struggle, all while growing through failure.",
+    "department": "sarvagya",
+    "date": "January 18, 2026",
+    "readTime": "2 min read",
+    "author": {
+      "name": "Srija Bhaduri",
+      "role": "CSE (AIML) | 1st Year"
     },
-    {
-      "id": "d/9Z-8Y-7X-GOOGLE-ID",
-      "caption": "Graph showing the efficiency increase over 3 months.",
-      "position": 3
-    }
-  ]
-},
-{
-  "id": "tech-fest-2024",
-  "title": "The Future of AI on Campus",
-  "excerpt": "A deep dive into how machine learning is optimizing our library systems.",
-  "department": "Sarvagya",
-  "date": "October 12, 2024",
-  "readTime": "4 min read",
-  "author": {
-    "name": "Rohan Das",
-    "role": "3rd Year, CSE"
-  },
-  "paragraphs": [
-    "Artificial Intelligence is often seen as a distant future technology, but on our campus, it is already happening. The new library system implemented last month uses basic ML algorithms to sort books.",
-    "I spoke with the Dean regarding this shift. He mentioned that efficiency has increased by 40% since the deployment. Students can now find research papers in seconds rather than minutes.",
-    "However, there were challenges. The initial dataset was messy, leading to some hilarious misclassifications. For example, 'The C++ Programming Language' was briefly categorized under 'Foreign Languages'.",
-    "The team is now working on phase two: facial recognition for entry. This has raised some privacy concerns among the student body, which the administration promises to address in the next town hall."
-  ],
-  "images": [
-    {
-      "id": "d/1A-2B-3C-GOOGLE-ID",
-      "caption": "The new automated kiosk at the Central Library.",
-      "position": 1
-    },
-    {
-      "id": "d/9Z-8Y-7X-GOOGLE-ID",
-      "caption": "Graph showing the efficiency increase over 3 months.",
-      "position": 3
-    }
-  ]
-}
+    "paragraphs": [
+      "<b>Why being average is sometimes better.</b>",
+      "Greetings dear friends! Today I'll be speaking on the topic 'Why being average is sometimes better.'",
+      "A person who is average, gets to live the best of both worlds. For instance, I am an average student.",
+      "Let’s say in my class, there are two groups of people. There’s a first group of students who are struggling in their academics; and then there is a second group of students who perform well in their academics.",
+      "I can receive help from the students who perform better since I have an urge to learn.",
+      "And I can also help the students who are struggling because I know what it feels like to be struggling myself.",
+      "I can group myself into both these groups of people.",
+      "Being average is like a bucket half full. I already acquire enough water to quench my thirst; but I also have enough space, to fill myself with more water and with more knowledge.",
+      "I am not to be mistaken with a student who is very high achieving just because I have the urge to learn.",
+      "Why? Because I can fail. And honestly speaking, I have the habit of failing.",
+      "This gives me the scope to rise up faster from my falls.",
+      "This gives me the scope to try, fail, try again, and maybe, in the end, succeed.",
+      "Dear friends, my name is Srija Bhaduri, and this was the speech of a very average student.",
+      "Thank you so much."
+    ],
+    "images": [
+      {
+        "id": "d/1p_9A7n0k0JWIFXUILUkf1RVexEal1uiY",
+        "caption": "Why being average is sometimes better: finding growth, balance, and resilience in everyday learning.",
+        "position": 1
+      }
+    ]
+  }
 ]
